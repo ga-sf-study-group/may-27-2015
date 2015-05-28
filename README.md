@@ -9,4 +9,4 @@
 <p>Design an algorithm to find all pairs of integers within an array which sum to a specified value</p>
 
 <h2>Problem 4 - Deck of Cards</h2>
-<p>Write a method to shuffle a deck of cards It must be a perfect shuffle - in other words, each52!permutationsofthedeckhastobeequallylikely Assumethatyouaregiven a random number generator which is perfect</p>
+<p>Write a method to shuffle a deck of cards It must be a perfect shuffle - in other words, each 52! permutations of the deck has to be equally likely. Assume that you are given a random number generator which is perfect.</p>
