@@ -9,3 +9,6 @@ var findPairs = function(arr, sum) {
   }
   return pairs;
 };
+
+// another solution: loop through once and check difference between
+// current element and sum, then loop up difference in hash map
