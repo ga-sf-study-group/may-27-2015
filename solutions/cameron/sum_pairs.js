@@ -11,4 +11,4 @@ var findPairs = function(arr, sum) {
 };
 
 // another solution: loop through once and check difference between
-// current element and sum, then loop up difference in hash map
+// current element and sum, then look up difference in hash map
